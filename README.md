@@ -1,5 +1,5 @@
 # tarak Mehta Ka Ooltah Chashma Quiz
-https://replit.com/@nikhilsharmaNKS/Mahabharata-Quiz
+https://replit.com/@AbhayMishra9/TarakMehtaQuiz#index.js
 
 ### A CLI based quiz made with NodeJS on the Tarak ehta Ka Ooltah Chashma. Test how much do you actually know about the serial. 
 
